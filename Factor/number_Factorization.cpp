@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main() 
 {
-	int a, i = 2, k = 0;
+	int a, i = 2;
 	printf("Enter number : ");
 	scanf_s("%d", &a);
 	printf("Factoring Result : ");
